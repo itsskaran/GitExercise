@@ -1,8 +1,12 @@
 Lysozyme           Chicken     LYSC_CHICK P00698
 Lysozyme           Human       LYSC_HUMAN P61626
 Hemoglobin-alpha   Human       HBA_HUMAN  P69905
+<<<<<<< HEAD:NEW.txt
 Hemoglobin-beta    Human       HBB_HUMAN  P68871
 
 
 mistake
 karan
+=======
+Hemoglobin-beta    Human       HBB_HUMAN  P68871
+>>>>>>> parent of 9b1d2d9 (Second Version):CODE.txt

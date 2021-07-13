@@ -4,9 +4,16 @@ Hemoglobin-alpha   Human       HBA_HUMAN  P69905
 <<<<<<< HEAD:NEW.txt
 Hemoglobin-beta    Human       HBB_HUMAN  P68871
 
+<<<<<<< HEAD:NEW.txt
 
 mistake
 karan
 =======
 Hemoglobin-beta    Human       HBB_HUMAN  P68871
 >>>>>>> parent of 9b1d2d9 (Second Version):CODE.txt
+=======
+karan
+>>>>>>> parent of 178a86e (Mistake Version):CODE.txt
+
+
+hi i am karan
